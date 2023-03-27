@@ -21,11 +21,11 @@ Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://us
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
+                    InlineKeyboardButton(text="᯽ ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᯽", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="https://github.com/AnonymousX1025/StringGenBot"),
-                    InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
+                    InlineKeyboardButton("★ sᴜᴘᴘᴏʀᴛ ★", url="https://t.me/noobcreator"),
+                    InlineKeyboardButton("★ ᴅᴇᴠᴇʟᴏᴩᴇʀ ★", user_id=OWNER_ID)
                 ]
             ]
         ),
