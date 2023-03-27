@@ -31,7 +31,7 @@
     "OWNER_ID": {
       "description": "Telegram id of the person who will known as owner of the bot.",
       "required": true,
-      "value": ""
+      "value": "5656382791"
     },
     "MONGO_DB_URI": {
       "description": "Get this value from cloud.mongodb.com",
@@ -41,7 +41,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "DevilsHeavenMF"
+      "value": "NOOBXCREATOR"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
