@@ -14,10 +14,10 @@ async def start(bot: Client, msg: Message):
         chat_id=msg.chat.id,
         text=f"""Hᴇʏ {msg.from_user.mention},
 
-Tʜɪs ɪs {me2},
-Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
+ᴛʜɪs ɪs {me2},
+ᴀᴅᴠᴀɴᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
 
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [𝝙𝗡𝗢𝗡𝗬𝗠𝗢𝗨𝗦](tg://user?id={OWNER_ID}) !""",
+ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [ᴘɪʀᴏᴋɪᴅ](t.me/pirokid) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
